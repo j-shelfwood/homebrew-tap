@@ -1,4 +1,4 @@
-class YeetAi < Formula
+class Yeet < Formula
   desc "Package your codebase for AI consumption in seconds"
   homepage "https://github.com/j-shelfwood/yeet"
   url "https://github.com/j-shelfwood/yeet/releases/download/v1.0.0/yeet"
