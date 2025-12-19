@@ -4,8 +4,10 @@
 
 ```bash
 brew tap j-shelfwood/yeet
-brew install yeet
+brew install yeet-ai
 ```
+
+> **Note:** The formula is named `yeet-ai` to avoid conflict with the existing [yeet package in homebrew-core](https://formulae.brew.sh/formula/yeet) (a JavaScript build tool by TecharoHQ).
 
 ## What is Yeet?
 
@@ -34,6 +36,13 @@ yeet --diff
 # JSON output for tooling
 yeet --json
 ```
+
+## Platform Support
+
+Currently, prebuilt binaries are available for:
+- **macOS Apple Silicon (ARM64)**
+
+Intel Mac and Linux users can [build from source](https://github.com/j-shelfwood/yeet#building-from-source).
 
 ## Documentation
 
