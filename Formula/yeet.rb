@@ -1,8 +1,8 @@
 class Yeet < Formula
   desc "Package your codebase for AI consumption in seconds"
   homepage "https://github.com/j-shelfwood/yeet"
-  url "https://github.com/j-shelfwood/yeet/releases/download/v1.0.0/yeet"
-  version "1.0.0"
+  url "https://github.com/j-shelfwood/yeet/releases/download/v1.0.1/yeet"
+  version "1.0.1"
   sha256 "76c31ab052537b9c89c691229cb3a56d458ae84d4526a2a8e9fa0821c22ab734"
   license "MIT"
 
