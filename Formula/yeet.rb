@@ -3,7 +3,7 @@ class Yeet < Formula
   homepage "https://github.com/j-shelfwood/yeet"
   url "https://github.com/j-shelfwood/yeet/releases/download/v1.0.0/yeet"
   version "1.0.0"
-  sha256 "56100e0cc405a48a80225b6dfc07344a7cdf0db098d6afdcf4b69c6677e59674"
+  sha256 "76c31ab052537b9c89c691229cb3a56d458ae84d4526a2a8e9fa0821c22ab734"
   license "MIT"
 
   depends_on :macos
