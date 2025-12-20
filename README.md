@@ -3,10 +3,10 @@
 ## Installation
 
 ```bash
-brew install j-shelfwood/yeet/yeet
+brew install j-shelfwood/tap/yeet
 ```
 
-> **Note:** Use the fully qualified name `j-shelfwood/yeet/yeet` to avoid conflict with the [yeet package in homebrew-core](https://formulae.brew.sh/formula/yeet) (a JavaScript build tool by TecharoHQ).
+> **Note:** Use the fully qualified name to avoid conflict with the [yeet package in homebrew-core](https://formulae.brew.sh/formula/yeet) (a JavaScript build tool by TecharoHQ).
 
 ## What is Yeet?
 
