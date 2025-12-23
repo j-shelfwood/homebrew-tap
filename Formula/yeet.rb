@@ -1,13 +1,12 @@
 class Yeet < Formula
   desc "Package your codebase for AI consumption in seconds"
   homepage "https://github.com/j-shelfwood/yeet"
-  url "https://github.com/j-shelfwood/yeet/releases/download/v1.0.1/yeet"
-  version "1.0.1"
-  sha256 "63f9da5f1a896aad445c2271492d43f2c41f3c6bbd6de87832e4d0f8bb918700"
+  url "https://github.com/j-shelfwood/yeet/releases/download/v1.2.0/yeet"
+  version "1.2.0"
+  sha256 "a79ed42503af8f8fcc6b54ce0cca56a0904614d8b7eaf9c8317e9d9ba4572404"
   license "MIT"
 
   depends_on :macos
-  depends_on arch: :arm64
 
   def install
     bin.install "yeet"
